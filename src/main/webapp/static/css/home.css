@@ -1,0 +1,21 @@
+body{
+    font-family: "Tektur",sans-serif;
+}
+.navbar-nav > li {
+    margin: 0 calc(5vw / 2);
+}
+
+
+.navbar-nav > li > a {
+    font-size: x-large;
+    font-weight: 600;
+}
+
+.navbar-nav .dropdown-item{
+    font-size: medium;
+    font-weight: 500;
+}
+.navbar .dropdown > ul > li .dropdown-item{
+    font-size: 17px;
+    font-weight: 500;
+}

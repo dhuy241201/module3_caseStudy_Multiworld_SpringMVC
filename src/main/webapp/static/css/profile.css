@@ -1,0 +1,13 @@
+body{
+    font-family: "Tektur",sans-serif;
+}
+.row .card{
+    height: 100%;
+}
+.py-5 .breadcrumb-item{
+    font-size: large;
+    font-weight: 600;
+}
+.btn{
+    font-size: medium;
+}
